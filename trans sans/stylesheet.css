@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'True Sans';
+    src: url('TrueSans-Black.woff2') format('woff2'),
+        url('TrueSans-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
